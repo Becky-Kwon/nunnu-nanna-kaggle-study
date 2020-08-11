@@ -1,4 +1,4 @@
-# nunnu-nanna-kaggle-study눈누난나 NunnuNanna 캐글 스터디
+# NunnuNanna 캐글 스터디
 데이터분석 기술 스터디 그룹 눈누난나 NunnuNanna의 14주차 캐글 스터디 과제입니다.
 
 캐글 코리아 블로그에 올라온 이유한 님의 캐글 커널 커리큘럼을 따라 데이터 분석 기술을 공부합니다.
